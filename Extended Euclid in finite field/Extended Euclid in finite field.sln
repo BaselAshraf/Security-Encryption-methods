@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Extended Euclid in finite field", "Extended Euclid in finite field\Extended Euclid in finite field.vcxproj", "{D2A27AA6-43B3-4B71-A89C-7B392FABC5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A27AA6-43B3-4B71-A89C-7B392FABC5EE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2A27AA6-43B3-4B71-A89C-7B392FABC5EE}.Debug|Win32.Build.0 = Debug|Win32
+		{D2A27AA6-43B3-4B71-A89C-7B392FABC5EE}.Release|Win32.ActiveCfg = Release|Win32
+		{D2A27AA6-43B3-4B71-A89C-7B392FABC5EE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

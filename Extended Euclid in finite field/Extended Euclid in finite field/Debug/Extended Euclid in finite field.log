@@ -1,0 +1,20 @@
+﻿Build started 2/8/2018 11:47:37 PM.
+     1>Project "C:\Users\IAA\Documents\Visual Studio 2012\Projects\Security Encryption methods\Extended Euclid in finite field\Extended Euclid in finite field\Extended Euclid in finite field.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\iaa\documents\visual studio 2012\projects\security encryption methods\extended euclid in finite field\extended euclid in finite field\source.cpp(19): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\iaa\documents\visual studio 2012\projects\security encryption methods\extended euclid in finite field\extended euclid in finite field\source.cpp(155): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\iaa\documents\visual studio 2012\projects\security encryption methods\extended euclid in finite field\extended euclid in finite field\source.cpp(159): warning C4244: 'argument' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\iaa\documents\visual studio 2012\projects\security encryption methods\extended euclid in finite field\extended euclid in finite field\source.cpp(160): warning C4244: 'argument' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\iaa\documents\visual studio 2012\projects\security encryption methods\extended euclid in finite field\extended euclid in finite field\source.cpp(160): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\iaa\documents\visual studio 2012\projects\security encryption methods\extended euclid in finite field\extended euclid in finite field\source.cpp(161): warning C4244: 'argument' : conversion from '__int64' to 'int', possible loss of data
+     1>c:\users\iaa\documents\visual studio 2012\projects\security encryption methods\extended euclid in finite field\extended euclid in finite field\source.cpp(161): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\IAA\Documents\Visual Studio 2012\Projects\Security Encryption methods\Extended Euclid in finite field\Debug\Extended Euclid in finite field.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\IAA\Documents\Visual Studio 2012\Projects\Security Encryption methods\Extended Euclid in finite field\Debug\Extended Euclid in finite field.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\IAA\Documents\Visual Studio 2012\Projects\Security Encryption methods\Extended Euclid in finite field\Debug\Extended Euclid in finite field.lib" /MACHINE:X86 Debug\Source.obj
+         Extended Euclid in finite field.vcxproj -> C:\Users\IAA\Documents\Visual Studio 2012\Projects\Security Encryption methods\Extended Euclid in finite field\Debug\Extended Euclid in finite field.exe
+     1>Done Building Project "C:\Users\IAA\Documents\Visual Studio 2012\Projects\Security Encryption methods\Extended Euclid in finite field\Extended Euclid in finite field\Extended Euclid in finite field.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
